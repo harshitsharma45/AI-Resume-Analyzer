@@ -1,4 +1,7 @@
+**APP Link:** https://ai-resume-analyzer-suuf9kay5cj5zzr4g6bawc.streamlit.app/
+
 # AI Resume Screening & Job Matching System
+
 
 A Streamlit academic demonstration that extracts text from PDF/DOCX/TXT resumes, detects skills, compares resumes to job descriptions with TF-IDF, calculates a transparent weighted match score, ranks multiple applicants, exports CSV/PDF, and demonstrates logistic regression, random forest and an ANN (scikit-learn MLP).
 
